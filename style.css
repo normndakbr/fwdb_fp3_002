@@ -54,9 +54,140 @@ h1.mt-5 {
 
 /* Background Biru Dongker */
 .halfBlue {
-    background: linear-gradient(to top, #020E35 50%, #fff 50%); 
+    background: linear-gradient(to top, #020E35 50%, #fff 50%);
 }
 
 .fullBlue {
     background: #020E35;
+}
+
+.ourWork {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.textOw1-1 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    margin-left: 40px;
+    color: #FFFFFF;
+
+}
+
+.textOw2-1 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: 3px;
+    margin-left: 40px;
+    color: #FFFFFF;
+
+}
+
+.textOw3-1 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 40px;
+    color: #FFFFFF;
+
+}
+
+.textOw1-2 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.textOw2-2 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: 3px;
+
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.textOw3-2 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.btnSee {
+    text-decoration: none;
+}
+
+.btn-none {
+    border: none;
+    background: transparent;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.txt-sectionD1 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+
+    color: #020E35;
+}
+
+.txt-sectionD2 {
+    font-family: Basic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height: 110px;
+    /* or 122% */
+
+    width: 584px;
+    height: 220px;
+    left: 135px;
+    top: 3971px;
+    color: #020E35;
+}
+
+#txtHear {
+    color: #E73587;
+}
+
+.inputSubject {
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.1);
+    border-radius: 2px;
 }
